@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubiconmp.BL", "Rubiconmp.B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubiconmp.API", "Rubiconmp.API\Rubiconmp.API.csproj", "{C0046EC7-C101-4C38-AA45-A9D8731194F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubiconmp.Tests", "Rubiconmp.Tests\Rubiconmp.Tests.csproj", "{0FAF0FAA-7E1B-45C1-9591-B7ADE78F7BB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{C0046EC7-C101-4C38-AA45-A9D8731194F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0046EC7-C101-4C38-AA45-A9D8731194F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0046EC7-C101-4C38-AA45-A9D8731194F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FAF0FAA-7E1B-45C1-9591-B7ADE78F7BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FAF0FAA-7E1B-45C1-9591-B7ADE78F7BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FAF0FAA-7E1B-45C1-9591-B7ADE78F7BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FAF0FAA-7E1B-45C1-9591-B7ADE78F7BB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
